@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CIrcleMIKKE</string>
+    <string name="action_settings">Settings</string>
+    <string name="alert_dialog_message">検索画面に移動しますか？</string>
+</resources>
